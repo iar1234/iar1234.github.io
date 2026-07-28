@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iar1234.github.io/pdf-jig-updates/sitemap.xml
